@@ -1,0 +1,5 @@
+img {
+    width: 10px;
+    height: auto; /* Esto asegura que la altura se ajuste automáticamente en función del ancho establecido */
+  }
+  
